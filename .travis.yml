@@ -1,0 +1,5 @@
+language: cpp
+install: cmake .
+scripts: 
+  - make
+  - make test
